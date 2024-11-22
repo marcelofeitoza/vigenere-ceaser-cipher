@@ -1,0 +1,8 @@
+[workspace]
+members = ["src/rust"]
+resolver = "2"
+
+[workspace.dependencies]
+csv = "1.1.6"
+rand = "0.8.5"
+unicode-normalization = "0.1"

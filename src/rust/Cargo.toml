@@ -1,0 +1,9 @@
+[package]
+name = "cipher-breaker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = { workspace = true }
+rand = { workspace = true }
+unicode-normalization = { workspace = true }
